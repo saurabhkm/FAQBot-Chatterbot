@@ -2,7 +2,7 @@
 A FAQ chatbot using chatterbot and flask
 
 ## Requirements
-Since this is an year old now, it has following dependencies
+Since this is more than an year old now, it has following dependencies
 1) Chatterbot = 0.4.2
 2) flask
 
