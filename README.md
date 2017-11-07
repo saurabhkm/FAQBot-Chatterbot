@@ -18,4 +18,4 @@ Run the following to launch the faqbot server
 ```python
 python server.py
 ```
-Head over to the url in the output which will be http://127.0.0.1:5000 and start conversing
+Head over to the url in the output which will be http://127.0.0.1:5000 in a browser and start conversing
