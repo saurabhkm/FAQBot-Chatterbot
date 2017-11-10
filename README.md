@@ -1,5 +1,5 @@
-# faqbot
-A chatbot using chatterbot and flask
+# FAQ Bot Chatterbot
+A simple chatbot using chatterbot and flask
 
 ## Requirements
 Since this is more than an year old now, it has following dependencies
